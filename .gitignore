@@ -11,3 +11,7 @@ venv/
 .vscode/
 cursor/
 *.log
+#Huggingface模型缓存
+~/cache/huggingface/
+*.bin
+*.safetensors
